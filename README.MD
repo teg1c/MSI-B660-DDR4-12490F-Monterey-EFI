@@ -5,8 +5,7 @@ Sample configuration
 -   GPU: Radeon RX 6600 Challenger ITX 8GB
 -   RAM: KINGBANK DDR4 16GB x 2 (3000MHz)
 -   SSD: WD Blue SN570 1TB SSD + Dahua C900 PLUS M.2 2280 NVMe 1TB SSD
--   WIFI: Intel Wi-Fi 6 AX201 160MHz
--   Ethernet:BCM943602CS
+-   WIFI: BCM943602CS
 -   MacOS version: Monterey 12.6
 -   OpenCore version: 0.8.4
 
